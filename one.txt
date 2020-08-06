@@ -9,4 +9,6 @@ int main()
 int add()
 {
 	printf("adding numbers");
+	printf ("c = a+b");
 }
+
