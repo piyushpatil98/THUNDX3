@@ -12,3 +12,10 @@ int add()
 	printf ("c = a+b");
 }
 
+int sub()
+{
+	printf("subtracting numbers");
+	printf ("c = a-b");
+}
+
+i
