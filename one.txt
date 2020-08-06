@@ -2,7 +2,7 @@
 
 int main()
 {
-	prinf ("Hello World");
+	prinf ("Hello World!");
 }
 
 
