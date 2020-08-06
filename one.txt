@@ -4,3 +4,9 @@ int main()
 {
 	prinf ("Hello World");
 }
+
+
+int add()
+{
+	printf("adding numbers");
+}
